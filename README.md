@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with code
 - 💬 Ask me about ....
 - 📫 How to reach me: follow the white rabbit  
-- ⚡ Fun fact: macdonalds
+- ⚡ Fun fact: macmenu
 
