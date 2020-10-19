@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on beqbe.com
+- 🔭 I’m currently working on beqbe.com(https://beqbe.com)
 - 🌱 I’m currently learning Angular
 - 👯 I’m looking to collaborate on humans
 - 🤔 I’m looking for help with code
