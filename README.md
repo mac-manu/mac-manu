@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [beqbe.com](https://beqbe.com)
-- 🌱 I’m currently learning a lot ( elixir stuff mostly ) || flutter 
+- 🌱 I’m currently learning a lot ( elixir stuff mostly ) 
 - 👯 I’m looking to collaborate on humans, if possible.
 - 🤔 I’m looking for help with code
 - 💬 Ask me about ....
