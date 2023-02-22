@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [beqbe.com](https://www.beqbe.com)
+- 🔭 I’m currently working on [secret.com](https://www.secret.com)
 - 🌱 I’m currently learning a lot ( elixir stuff mostly ) 
 - 👯 I’m looking to collaborate on humans, if possible.
 - 🤔 I’m looking for help with code
